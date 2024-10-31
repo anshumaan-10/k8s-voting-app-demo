@@ -2,6 +2,9 @@
 
 A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
 
+### My Project Documentation 
+https://medium.com/@anshumaansingh10jan/cloud-native-voting-application-on-google-cloud-platform-gitops-with-argo-cd-helm-kubernetes-807c855076ab
+
 ## Overview
 
 This guide covers the steps to:
